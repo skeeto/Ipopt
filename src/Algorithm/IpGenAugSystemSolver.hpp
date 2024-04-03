@@ -4,8 +4,8 @@
 //
 // Authors:  Andreas Waechter     IBM    2007-03-01
 
-#ifndef __IP_STDAUGSYSTEMSOLVER_HPP__
-#define __IP_STDAUGSYSTEMSOLVER_HPP__
+#ifndef __IP_GENAUGSYSTEMSOLVER_HPP__
+#define __IP_GENAUGSYSTEMSOLVER_HPP__
 
 #include "IpAugSystemSolver.hpp"
 #include "IpGenKKTSolverInterface.hpp"
