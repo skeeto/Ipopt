@@ -9,6 +9,7 @@ More detailed information about incremental changes can be found in the
 
 ### 3.14.15 (2024-xx-yy)
 
+- Fixed include guard of IpGenAugSystemSolver.hpp [#756, by Christopher Wellons].
 - Improved finding dependencies of linear solver libraries loaded at runtime on Windows
   [#755, by Yue Yang].
 
